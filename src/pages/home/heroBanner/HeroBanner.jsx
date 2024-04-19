@@ -43,7 +43,7 @@ const HeroBanner = () => {
           <span className="title">Welcome.</span>
           <span className="subTitle">
             Unleash your cinematic journey with MoviFleX.
-            Explore, engaage & enjoy..!
+            Explore, engage & enjoy..!
           </span>
           <div className="searchInput">
             <input
